@@ -1,1 +1,3 @@
-My personal projects
+Personal projects
+
+Involves long ranging personal programming pursuits.
