@@ -1,3 +1,1 @@
-Personal projects
-
-Involves long ranging personal programming pursuits.
+Personal projects - Long ranging personal programming pursuits.
